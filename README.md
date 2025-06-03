@@ -3,6 +3,7 @@
 ### **HELLO ALL, I'M DIEGO GONZÁLEZ ALSO KNOW LIKE DUZAN**
 
 ---
+[![Capsule Render](https://capsule-render.vercel.app/api?type=rounded&color=6A0DAD&height=220&section=header&text=🚀%20DIEGO%20GONZÁLEZ%20%7C%20DUZAN404&fontSize=45&fontAlign=50&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Fullstack%20Developer&descAlign=50&descSize=20&descAlignY=70)](https://github.com/duzan404)
 
 ### 🧑‍💻 **ABOUT ME**
 
